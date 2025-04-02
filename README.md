@@ -1,7 +1,7 @@
 # Book Management API
 This is a simple Book Management API built with FastAPI. The API allows you to perform CRUD operations on a collection of books stored in memory.
 
-Features
+## Features
 Add a new book
 
 Get a list of all books
@@ -12,7 +12,7 @@ Update an existing book
 
 Delete a book by its ID
 
-Requirements
+## Requirements
 Python 3.7+
 
 FastAPI
